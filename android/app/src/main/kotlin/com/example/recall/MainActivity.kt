@@ -1,4 +1,4 @@
-package com.example.tudu
+package com.example.recall
 
 import io.flutter.embedding.android.FlutterActivity
 
