@@ -42,7 +42,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions web = FirebaseOptions(
     apiKey: 'AIzaSyCs94F3qix0mkokyalQH7cmpCajcVGH0eA',
-    appId: '1:950725307189:web:bf41504b0057b06203ba7c',
+    appId: '1:950725307189:web:3dc3c45eadbf9fa803ba7c',
     messagingSenderId: '950725307189',
     projectId: 'recall-4653e',
     authDomain: 'recall-4653e.firebaseapp.com',
@@ -51,7 +51,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions android = FirebaseOptions(
     apiKey: 'AIzaSyAk-QDLf36INb5zpPvbfc7mFXhl3FaE9PU',
-    appId: '1:950725307189:android:187e83cb784c7d4e03ba7c',
+    appId: '1:950725307189:android:720c1e18e27041cd03ba7c',
     messagingSenderId: '950725307189',
     projectId: 'recall-4653e',
     storageBucket: 'recall-4653e.firebasestorage.app',
@@ -59,7 +59,7 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions ios = FirebaseOptions(
     apiKey: 'AIzaSyD-bGMYTRHw7y0t8y6YFZTWbmTkKHb3slY',
-    appId: '1:950725307189:ios:c8fcb38d2a18d5f803ba7c',
+    appId: '1:950725307189:ios:ee6ce12d62f2216403ba7c',
     messagingSenderId: '950725307189',
     projectId: 'recall-4653e',
     storageBucket: 'recall-4653e.firebasestorage.app',
@@ -68,16 +68,16 @@ class DefaultFirebaseOptions {
 
   static const FirebaseOptions macos = FirebaseOptions(
     apiKey: 'AIzaSyD-bGMYTRHw7y0t8y6YFZTWbmTkKHb3slY',
-    appId: '1:950725307189:ios:ec4b57cd1d6bb8b303ba7c',
+    appId: '1:950725307189:ios:ee6ce12d62f2216403ba7c',
     messagingSenderId: '950725307189',
     projectId: 'recall-4653e',
     storageBucket: 'recall-4653e.firebasestorage.app',
-    iosBundleId: 'com.example.tudu',
+    iosBundleId: 'com.example.recall',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
     apiKey: 'AIzaSyCs94F3qix0mkokyalQH7cmpCajcVGH0eA',
-    appId: '1:950725307189:web:0ed7cefb21c8a9ec03ba7c',
+    appId: '1:950725307189:web:4f193153ff1820ab03ba7c',
     messagingSenderId: '950725307189',
     projectId: 'recall-4653e',
     authDomain: 'recall-4653e.firebaseapp.com',
