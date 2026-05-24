@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "437641752591",
-    "project_id": "tudu-a4291",
-    "storage_bucket": "tudu-a4291.firebasestorage.app"
+    "project_number": "950725307189",
+    "project_id": "recall-4653e",
+    "storage_bucket": "recall-4653e.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:437641752591:android:df5e8ba2cf08bfae5f337a",
+        "mobilesdk_app_id": "1:950725307189:android:187e83cb784c7d4e03ba7c",
         "android_client_info": {
-          "package_name": "com.example.tudu"
+          "package_name": "com.example.recall"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDfLtGfFMSequO-y48ByZRQyPzq0yI5dww"
+          "current_key": "AIzaSyAk-QDLf36INb5zpPvbfc7mFXhl3FaE9PU"
         }
       ],
       "services": {

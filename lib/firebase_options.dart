@@ -41,46 +41,47 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDm8V2V7Hp4g5lGfZjvZJw1g2YaUIsWqQs',
-    appId: '1:437641752591:web:6b3edad6209b45705f337a',
-    messagingSenderId: '437641752591',
-    projectId: 'tudu-a4291',
-    authDomain: 'tudu-a4291.firebaseapp.com',
-    storageBucket: 'tudu-a4291.firebasestorage.app',
+    apiKey: 'AIzaSyCs94F3qix0mkokyalQH7cmpCajcVGH0eA',
+    appId: '1:950725307189:web:bf41504b0057b06203ba7c',
+    messagingSenderId: '950725307189',
+    projectId: 'recall-4653e',
+    authDomain: 'recall-4653e.firebaseapp.com',
+    storageBucket: 'recall-4653e.firebasestorage.app',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDfLtGfFMSequO-y48ByZRQyPzq0yI5dww',
-    appId: '1:437641752591:android:df5e8ba2cf08bfae5f337a',
-    messagingSenderId: '437641752591',
-    projectId: 'tudu-a4291',
-    storageBucket: 'tudu-a4291.firebasestorage.app',
+    apiKey: 'AIzaSyAk-QDLf36INb5zpPvbfc7mFXhl3FaE9PU',
+    appId: '1:950725307189:android:187e83cb784c7d4e03ba7c',
+    messagingSenderId: '950725307189',
+    projectId: 'recall-4653e',
+    storageBucket: 'recall-4653e.firebasestorage.app',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyCfve8t8ywou5ido22rcgFR2be_HfdjemA',
-    appId: '1:437641752591:ios:a97b94c3bf4814195f337a',
-    messagingSenderId: '437641752591',
-    projectId: 'tudu-a4291',
-    storageBucket: 'tudu-a4291.firebasestorage.app',
-    iosBundleId: 'com.example.tudu',
+    apiKey: 'AIzaSyD-bGMYTRHw7y0t8y6YFZTWbmTkKHb3slY',
+    appId: '1:950725307189:ios:c8fcb38d2a18d5f803ba7c',
+    messagingSenderId: '950725307189',
+    projectId: 'recall-4653e',
+    storageBucket: 'recall-4653e.firebasestorage.app',
+    iosBundleId: 'com.example.recall',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyCfve8t8ywou5ido22rcgFR2be_HfdjemA',
-    appId: '1:437641752591:ios:a97b94c3bf4814195f337a',
-    messagingSenderId: '437641752591',
-    projectId: 'tudu-a4291',
-    storageBucket: 'tudu-a4291.firebasestorage.app',
+    apiKey: 'AIzaSyD-bGMYTRHw7y0t8y6YFZTWbmTkKHb3slY',
+    appId: '1:950725307189:ios:ec4b57cd1d6bb8b303ba7c',
+    messagingSenderId: '950725307189',
+    projectId: 'recall-4653e',
+    storageBucket: 'recall-4653e.firebasestorage.app',
     iosBundleId: 'com.example.tudu',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyDm8V2V7Hp4g5lGfZjvZJw1g2YaUIsWqQs',
-    appId: '1:437641752591:web:ab1374f93b32ae015f337a',
-    messagingSenderId: '437641752591',
-    projectId: 'tudu-a4291',
-    authDomain: 'tudu-a4291.firebaseapp.com',
-    storageBucket: 'tudu-a4291.firebasestorage.app',
+    apiKey: 'AIzaSyCs94F3qix0mkokyalQH7cmpCajcVGH0eA',
+    appId: '1:950725307189:web:0ed7cefb21c8a9ec03ba7c',
+    messagingSenderId: '950725307189',
+    projectId: 'recall-4653e',
+    authDomain: 'recall-4653e.firebaseapp.com',
+    storageBucket: 'recall-4653e.firebasestorage.app',
   );
+
 }
